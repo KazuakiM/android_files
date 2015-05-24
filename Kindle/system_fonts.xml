@@ -17,7 +17,17 @@
     in /vendor/etc/fallback_fonts.xml.
 -->
 <familyset>
-
+    <family>
+        <nameset>
+            <name>RictyDiminished</name>
+        </nameset>
+        <fileset>
+            <file>/storage/emulated/0/Android/data/com.amazon.kindle/files/fonts/ja/RictyDiminishedDiscord_Bold.ttf</file>
+            <file>/storage/emulated/0/Android/data/com.amazon.kindle/files/fonts/ja/RictyDiminishedDiscord_BoldOblique.ttf</file>
+            <file>/storage/emulated/0/Android/data/com.amazon.kindle/files/fonts/ja/RictyDiminishedDiscord_Oblique.ttf</file>
+            <file>/storage/emulated/0/Android/data/com.amazon.kindle/files/fonts/ja/RictyDiminishedDiscord_Regular.ttf</file>
+        </fileset>
+    </family>
     <family>
         <nameset>
             <name>sans-serif</name>
